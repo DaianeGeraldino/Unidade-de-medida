@@ -1,0 +1,3 @@
+Se você tivesse usado unidades de medidas absolutas, e configurasse a largura da tabela com 1500px, o que aconteceria no momento da exibição da tabela em uma tela de celular?
+
+Ela não se ajustaria automaticamente ao tamanho da tela, especialmente em dispositivos menores como celulares.
